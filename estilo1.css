@@ -8,19 +8,19 @@ body{
   /* background-image: url("assets1/fundorosa2.jpg"); */
   /* background-size: cover; */
   height: 100vh;
-  background: rgb(126,128,249);
-background: linear-gradient(60deg, rgba(126,128,249,0.8435574913559174) 0%, rgba(245,146,241,0.8519608527004552) 92%); 
+  background: rgb(48,93,238);
+background: linear-gradient(315deg, rgba(48,93,238,1) 0%, rgba(181,31,142,1) 84%);
 }
 
 
 
 header{
     top: 0;
-    height: 100px;
+    height: 110px;
     display: flex;
     align-items: center;
     justify-content: flex-end;
-    background-color: rgb(255,255,255);
+    background-color: #111111;
     padding: 0 10px;
     width: 100%;
     z-index: 1;
@@ -33,7 +33,7 @@ header{
    padding-top: 5%;
  }
  header a{
-     color: black;
+     color: white;
      font-family: "Bodoni Moda", serif;
      font-size: 25px;
      text-decoration: none;
@@ -60,11 +60,13 @@ header{
   left: 1000px;
  }
 
- .barbie_logo{
- 
+ .logo{
+
+/* height: 190px; */
+/* width: 250px; */
 position: absolute;
 left: 20px;
- 
+
 
 }
 
